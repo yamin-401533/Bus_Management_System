@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/bus_image">
+        <file>picture/IMG_20231018_111648_380.jpg</file>
+    </qresource>
+    <qresource prefix="/pictures">
+        <file>picture/20231018_190948_0000.png</file>
+        <file>picture/20231018_215358_0000-removebg-preview.png</file>
+        <file>picture/images (2).jpeg</file>
+        <file>picture/IMG_20231014_235549_290.jpg</file>
+        <file>picture/IMG_20231018_001726_237.jpg</file>
+        <file>picture/IMG_20231018_111652_285.jpg</file>
+        <file>picture/IMG_20231018_111705_720.jpg</file>
+        <file>picture/IMG_20231018_111722_228.jpg</file>
+        <file>picture/IMG_20231018_191213_574.jpg</file>
+        <file>picture/IMG_20231018_191218_687.jpg</file>
+        <file>picture/IMG_20231018_191226_487.jpg</file>
+        <file>picture/IMG_20231018_111722_228 1.jpg</file>
+        <file>picture/20231018_234943_0000.png</file>
+        <file>picture/profile logo.jpg</file>
+        <file>picture/profile logo 1.png</file>
+        <file>picture/20231019_004125_0000-removebg-preview.png</file>
+        <file>picture/download.png</file>
+        <file>picture/Screenshot_20231021-204516_Canva.jpg</file>
+        <file>picture/png_20231101_002715_0000.png</file>
+    </qresource>
+    <qresource prefix="/photo_10">
+        <file>picture/20231105_015750_0000.png</file>
+    </qresource>
+    <qresource prefix="/photo_11">
+        <file>picture/20231105_015750_0000.png</file>
+    </qresource>
+    <qresource prefix="/photo_12">
+        <file>picture/InShot_20231108_000745334.jpg</file>
+    </qresource>
+</RCC>
