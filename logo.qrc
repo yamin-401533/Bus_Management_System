@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>picture/20231018_215358_0000-removebg-preview.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>picture/bus.jpg</file>
+        <file>picture/54.jpg</file>
+        <file>picture/R.jpeg</file>
+        <file>picture/r2.jpg</file>
+        <file>picture/texture__dark_paper_by_awesomestock-d4pqyb2.png</file>
+        <file>picture/payment_method.png</file>
+        <file>picture/R.jpeg</file>
+        <file>picture/wallhaven-rr63km.png</file>
+        <file>picture/wallhaven-9mel2k.png</file>
+        <file>picture/OIP (1).jpg</file>
+        <file>picture/ya.jpg</file>
+        <file>picture/y.png</file>
+        <file>picture/907ce39b-a712-4aee-b9a3-9ade30a453c3.jpg</file>
+        <file>picture/670020.png</file>
+
+        <file>picture/IMG_20231018_111722_228_1-removebg-preview.png</file>
+        <file>picture/20231018_190948_0000.png</file>
+        <file>picture/20231018_215358_0000-removebg-preview.png</file>
+        <file>picture/20231018_234943_0000.png</file>
+        <file>picture/20231019_004125_0000-removebg-preview.png</file>
+        <file>picture/download.png</file>
+        <file>picture/images (2).jpeg</file>
+        <file>picture/IMG_20231014_235549_290.jpg</file>
+        <file>picture/IMG_20231018_001726_237.jpg</file>
+        <file>picture/IMG_20231018_111648_380.jpg</file>
+        <file>picture/IMG_20231018_111652_285.jpg</file>
+        <file>picture/IMG_20231018_111705_720.jpg</file>
+        <file>picture/IMG_20231018_111722_228 1.jpg</file>
+        <file>picture/IMG_20231018_111722_228.jpg</file>
+        <file>picture/IMG_20231018_191213_574.jpg</file>
+        <file>picture/IMG_20231018_191218_687.jpg</file>
+        <file>picture/IMG_20231018_191226_487.jpg</file>
+        <file>picture/profile logo 1.png</file>
+        <file>picture/profile logo.jpg</file>
+        <file>picture/Screenshot_20231021-204516_Canva.jpg</file>
+        <file>picture/IMG_20231018_111722_228_1-removebg-preview 1.png</file>
+        <file>picture/20231024_001727_0000.png</file>
+        <file>picture/png_20231101_002715_0000.png</file>
+        <file>picture/360_F_376854346_5lc4NXFj2JndwnrrFpnyKQxnN3rKJAyE.webp</file>
+        <file>picture/360_F_470057541_pAQZG8I6KWmbKExfmPdE5fGcgny40U7F.webp</file>
+        <file>picture/360_F_478069230_etbc1sRQpm6M0joN3bLuTyn5ljxdkdmz.webp</file>
+        <file>picture/png_20231101_002715_0000-removebg-preview.png</file>
+        <file>picture/png_20231101_090652_0000.png</file>
+        <file>picture/images.jpg</file>
+        <file>picture/images.png</file>
+        <file>picture/20231101_184741_0000.png</file>
+        <file>picture/670475_tool_512x512.png</file>
+        <file>picture/20231105_011713_0000.png</file>
+        <file>picture/png_20231105_020003_0000.png</file>
+        <file>picture/20231106_153811_0000.png</file>
+        <file>picture/photo_2023-11-08_03-33-29.jpg</file>
+        <file>picture/photo_2023-11-08_03-33-29-removebg-preview.png</file>
+        <file>picture/InShot_20231108_000745334.jpg</file>
+        <file>picture/20231108_135712.png</file>
+        <file>picture/images (8).jpeg</file>
+        <file>picture/555.jpg</file>
+        <file>picture/32f7f9fcde6ae311a12f6e6f61e84cd8.jpg</file>
+    </qresource>
+</RCC>
