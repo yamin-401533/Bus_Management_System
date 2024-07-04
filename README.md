@@ -20,6 +20,7 @@ User Management: The system will have different user roles (e.g., bus operators,
 
 
 ✔**Homepage:**
+
 Our homepage provides an intuitive interface to facilitate easy navigation for our users. Here are the key sections you can explore.
  
  User :   Access personal account details, manage bookings, and view travel history.
@@ -37,6 +38,7 @@ Our homepage provides an intuitive interface to facilitate easy navigation for o
 
 
 ✔**Sign_in & Sign_up page:**
+
 It is a user login and registration form. It contains fields for name, email, mobile number, password, confirm password, and gender. The user can sign in if they already have an account or sign up if they are a new user.
 
 ![image](https://github.com/yamin-401533/Bus_Management_System/assets/141956369/509b1a87-800e-4a56-a989-30ac1d2c4c90)
