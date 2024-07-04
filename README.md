@@ -3,14 +3,14 @@
 
 
 
-**Project Description:**
+🔗**Project Description**
 
 The Bus Management System is a desktop application built using Qt C++ framework. It aims to provide a comprehensive solution for managing bus operations, including scheduling, passenger booking, and route planning. The system will cater to the needs of bus operators, enabling them to streamline their business processes and improve overall efficiency.
 
 
 
 
-**Key Features:**
+🔗**Key Features**
 
 Bus Schedule Management: The system will allow users to create, view, and modify bus schedules, including departure and arrival times, routes, and bus capacities.
 Passenger Booking: Passengers will be able to search for available bus trips, book tickets, and manage their reservations. The system will handle seat allocation and provide real-time updates on seat availability.
@@ -92,7 +92,7 @@ It is a user login and registration form. It contains fields for name, email, mo
 
 
 
-**Technical Details :**
+🔗**Technical Details**
 
   **Platform:**  Desktop application
   
@@ -107,4 +107,4 @@ It is a user login and registration form. It contains fields for name, email, mo
 
 
 
-This project overview provides a high-level summary of the key aspects of the Bus Management System project. It outlines the main features, technical details, and project timeline to give you a comprehensive understanding of the scope and objectives of this Qt C++ application.
+🔗This project overview provides a high-level summary of the key aspects of the Bus Management System project. It outlines the main features, technical details, and project timeline to give you a comprehensive understanding of the scope and objectives of this Qt C++ application.
